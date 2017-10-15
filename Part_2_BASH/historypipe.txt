@@ -1,0 +1,5 @@
+   30   8 -rw-------   1 jamzaleg84  staff    229 Sep  4 16:54 .Xauthority
+   31   8 -rwxr-xr-x   1 jamzaleg84  staff   2864 Sep 17 00:18 .bash_history
+   32   8 -rw-r--r--   1 jamzaleg84  staff     12 Sep 15 10:03 .bash_profile
+   33   0 drwxr-xr-x  20 jamzaleg84  staff    680 Sep 17 00:18 .bash_sessions
+   34   8 -rw-r--r--   1 jamzaleg84  staff   2603 Sep 16 21:35 .bashrc

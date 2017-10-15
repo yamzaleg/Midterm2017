@@ -1,0 +1,104 @@
+---
+title: "Midterm Instructions: Concepts"
+author: "Yonatan Amzaleg"
+date: "10/4/2017"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is the first R Markdown for the midterm assignment.  It is provided as 3 different markdowns to insure that one question does not prevent anyone from completing other parts of the exam.  Please edit the markdown such by either (1) striking *italicized* words that are incorrect using ~~strikethrough~~ (\~\~strikethrough\~\~), (2) deleting the incorrect *italicized* terms, or (3) putting the correct answer where requested.
+
+See below for an example.  We see that both _true_ and _false_ are options.  To answer the question, we delete _false_
+
+## Example
+
+**Before the exam**
+
+* It is __true__ __false__ that the earth is round and the average temperature of the earth has risen within our lifetime
+
+**After you edited by deleting __false__ or crossing it out, any one of these is ok **
+
+* It is __true__ that the earth is round and the average temperature of the earth has risen within our lifetime
+* It is __true__ ~~_false_~~ that the earth is round and the average temperature of the earth has risen within our lifetime
+
+***
+
+## Types of data (any language): 10 points
+
+* "2" is a __String__ datatype.
+* 2 is an __Integer__ datatype.
+* 2.05 is a __Float__ datatype.
+* 2.0 is a __Float__ datatype.
+* "" is a __Null__ datatype.
+* "true" is a __String__ datatype.
+* TRUE is a __Boolean__ datatype.
+
+## Types of data (R): 10 points
+
+* When we run the command *a<-c("d",1,"b")* in *R*, creates a __list__ stored in *a*.
+
+* After we create a variable *a* and fill it with data using the command a<-c("d",1,"b"), we can subset to *d<-a[2]*.  The type of data found in *d* is of type __integer__ .
+
+If you were to load in the diamonds dataset from the ggplot2 library, what type of data is found within diamonds$carat?
+
+>
+__float datatype__ 
+
+## Data (these are generalizable file formats, and not specific to R)
+
+* csv files are typically __comma__ deliminited
+
+* The data below is typically __json__
+
+> data ={
+        name: "John",
+        address: {
+            street: "459 E Jon St.",
+            city: "Springfield,
+            state: "Illinois",
+        },
+        age:14
+    }
+
+* In the example above, data.age is  __Integer__ data-type
+
+* In the example above, data.address is an __unordered__ embedded document (or list)
+
+## Licenses (10 Points)
+
+* It is __True__, If I publish my code working at my new company as MIT License, I can utilize that code
+at my next job as part of their projects provided I acknowledge the prior copyrights.
+
+* It is __True__, I can include code R that is GNU GPLv3 within my code  provided I cite the prior copyrights.
+
+* It is __True__, I didn't put a license file in my code but I posted it on github while working in a research laboratory. Because of my lack of thoroughness, I can never use that code again should I take another job, and if I do I could be held liable.  
+
+***
+
+
+<!-- The text below is just to reformat the page, using css styling -->
+```{r results="asis", echo = FALSE}
+cat("
+<style>
+h1 {
+    background-color: #990000;
+    color:#FFF;
+    text-align:center;
+}
+h2 {
+   background-color:#f3d6d6;
+   text-align:center;
+   color:#333
+}
+h3 {
+   margin-left:-5px;
+   color:#333
+}
+
+</style>
+")
+```

@@ -1,0 +1,500 @@
+   30   8 -rw-------   1 jamzaleg84  staff    229 Sep  4 16:54 .Xauthority
+   31   8 -rwxr-xr-x   1 jamzaleg84  staff   2864 Sep 17 00:18 .bash_history
+   32   8 -rw-r--r--   1 jamzaleg84  staff     12 Sep 15 10:03 .bash_profile
+   33   0 drwxr-xr-x  20 jamzaleg84  staff    680 Sep 17 00:18 .bash_sessions
+   34   8 -rw-r--r--   1 jamzaleg84  staff   2603 Sep 16 21:35 .bashrc
+   35   0 drwxr-xr-x   3 jamzaleg84  staff    102 Aug 31 13:25 .cache
+   36   8 -rw-------   1 jamzaleg84  staff   1024 Sep  4 16:54 .rnd
+   37   0 drwxr-xr-x  15 jamzaleg84  staff    510 Sep 12 13:59 .rstudio-desktop
+   38   8 -rwxr-xr-x   1 jamzaleg84  staff     70 Aug 31 13:24 .serverauth.1048
+   39   8 -rw-------   1 jamzaleg84  staff    140 Sep  4 16:54 .serverauth.699
+   40   0 drwxr-xr-x   3 jamzaleg84  staff    102 Aug 31 13:24 .ssh
+   41   0 drwxr-xr-x   6 jamzaleg84  staff    204 Sep 12 13:59 .subversion
+   42   8 -rw-------   1 jamzaleg84  staff   3549 Sep 16 21:35 .viminfo
+   43   0 drwxr-xr-x+ 14 jamzaleg84  staff    476 Sep  5 11:32 Desktop
+   44   0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwx+  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-51 0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-x jamza 0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-84   0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+    0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr   0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drf    0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drff 0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17 3 0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ proj 0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ 17  0 drwxr-xr-x+ jamzaleg84@Erics-MacBook-Pro-2:sudo chmod a+rx /usr/local/Cellar/gnu-sed/4.4/bin/gsed
+   45  which sed
+   46  ln -s /usr/local/bin/gsed /usr/local/bin/sed
+   47  sed
+   48  ssh jamzaleg84@itg.usc.edu
+   49  sudo cp /usr/local/Cellar/gnu-sed/4.4/bin/sed /usr/local/Cellar/gnu-sed/4.4/bin/gsed
+   50  sudo cp /usr/local/Cellar/gnu-sed/4.4/bin/sed /usr/local/Cellar/gnu-sed/4.4/bin/gsed
+   51  ls -lsa
+   52  ls
+   53  gnu sed
+   54  find /usr -type f -name *sed
+   55  brew install gnu-sed --with-default-names
+   56  PATH=$PATH:/usr/local/Cellar/gnu-sed/4.4/bin/gsed:/usr/local/bin
+   57  find /usr -type f -name *sed
+   58  usr/local/bin
+   59  ls -lsa
+   60  vim .bashrc
+   61  ssh jamzaleg84@itg.usc.edu
+   62  ssh jamzaleg84@itg.usc.edu
+   63  brew install gnu-sed
+   64  rm -rf /usr/local/share/doc/homebrew
+   65  rm -rf /usr/local/share/man/man1/brew.1
+   66  brew update
+   67  find /usr -type f -name *sed
+   68  vim .bashrc
+   69  find /usr -type f -name *sed
+   70  vi .bash_profile
+   71  PATH="/usr/local/bin:$PATH"
+   72  . ~/.bash_profile
+   73  find /usr -type f -name *sed
+   74  find /usr -type f -name *sed
+   75  brew install gnu-sed
+   76  brew update
+   77  vim .bash_profile
+   78  ssh jamzaleg84@itg.usc.edu
+   79  ssh jazmaleg84@itg.usc.edu
+   80  $ echo $PATH
+   81  $ PATH=/bin:/usr/bin:$PATH
+   82  echo $PATH
+   83  PATH=/bin:/usr/bin:$PATH
+   84  export PATH
+   85  vim .bashrc
+   86  ssh jamzaleg84@itg.usc.edu
+   87  brew install gnu-sed
+   88  gsed
+   89  vim build_table2.sh
+   90  ssh jamzaleg84@itg.usc.edu
+   91  brew install git
+   92  git config --global user.email "jamzaleg84@gmail.com"
+   93  git config --global user.name "Yonatan Amzaleg"
+   94  ssh jamzaleg84@itg.usc.edu
+   95  devtools::install_github('hadley/ggplot2')
+   96  devtools
+   97  git clone https://github.com/yamzaleg/mygraphya.git
+   98  cd mygraphya/bin/
+   99  ls
+  100  which bin
+  101  which bash
+  102  ls -lsa
+  103  ./build_table2.sh 
+  104  ./build_table2.sh -f Homo_sapiens.GRCh37.75.gtf.gz
+  105  ls
+  106  more gene_dist_head.tsv 
+  107  exit
+  108  ssh jamzaleg84@itg.usc.edu
+  109  ssh jamzaleg84@itg.usc.edu
+  110  ssh jamzaleg84@itg.usc.edu
+  111  ssh jamzaleg84@itg.usc.edu
+  112  ssh 
+  113  ssh jamzaleg84@itg.usc.edu
+  114  ls -lsa
+  115  ssh jamzaleg84@itg.usc.edu
+  116  wget cohort.tpms.csv.gz
+  117  ssh jamzaleg84@itg.usc.edu
+  118  ssh jamzaleg84@itg.usc.edu
+  119  ssh jamzaleg84@itg.usc.edu
+  120  ssh jamzaleg84@itg.usc.edu
+  121  git clone https://github.com/tgrn510/assignment3
+  122  ls
+  123  cd assignment3
+  124  ls
+  125  vim index.Rmd
+  126  ls
+  127  vim readme.md
+  128  cd ..
+  129  mv assignment3 assignment3.old
+  130  ls
+  131  cd assignment3/
+  132  cd assignment3.old/
+  133  ls
+  134  cd data
+  135  ls
+  136  cd..
+  137  cd ..
+  138  cd ..
+  139  mv assignment3.old assignment3
+  140  ls
+  141  cd assignment3
+  142  ls
+  143  vim license
+  144  ls
+  145  cd assignment3/
+  146  ls
+  147  vim index.Rmd
+  148  cd ..
+  149  r
+  150  r
+  151  ls
+  152  cd assignment3/
+  153  ls
+  154  vim index.Rmd
+  155  ls
+  156  cd assignment3/
+  157  ls
+  158  vim index.rmd
+  159  cd ..
+  160  ssh jamzaleg84@itg.usc.edu
+  161  ssh jamzaleg84@itg.usc.edu
+  162  ssh jamzaleg84@itg.usc.edu
+  163  ssh jamzaleg84@itg.usc.edu
+  164  git clone https://github.com/tgrn510/Midterm
+  165  ls
+  166  cd midterm
+  167  ls
+  168  vim part_1_concepts
+  169  cd midterm
+  170  ls
+  171  cd part_1_concepts
+  172  ls
+  173  pwd
+  174  ls
+  175  cd midterm
+  176  ls
+  177  cd part_2_bash
+  178  pwd
+  179  mkdir mydirectory
+  180  ls
+  181  rm -f mydirectory
+  182  ls
+  183  rm -f mydirectory
+  184  cd mydirectory
+  185  cd ..
+  186  rmdir mydirectory
+  187  ls
+  188  rmdir mydirectory
+  189  rm mydirectory1
+  190  rmdir mydirectory1
+  191  ls
+  192  pwd
+  193  mkdir mydirectory
+  194  rmdir mydirectory
+  195  history
+  196  history 5
+  197  history 30
+  198  fc -l -5
+  199  show history
+  200  vim numbers.txt
+  201  which bash
+  202  vim numbers.txt
+  203  cd midterm
+  204  cd Part_2_BASH/
+  205  ls
+  206  vim numbers.txt
+  207  vi numbers.txt
+  208  ls
+  209  vim numbers.txt
+  210  ls
+  211  vim numbers.txt
+  212  cd numbers.txt
+  213  ls -lsa
+  214  chmod 755 number.txt
+  215  chmod 755 numbers.txt
+  216  ls -lsa
+  217  pwd
+  218  history 5
+  219  history 5 > history5.txt
+  220  ls
+  221  vim history 5.txt
+  222  ls
+  223  rm -f history
+  224  ls
+  225  vim history5.txt
+  226  wc -c < history5.txt
+  227  wc -m < history5.txt
+  228  wc -l <history5.txt>
+  229  wc -l < /history5.txt
+  230  wc -l < /midterm/Part_2_BASH/history5.txt 
+  231  ls
+  232  wc -l <history5.txt
+  233  ls -lsa
+  234  chmod 700 numbers.txt
+  235  ls -lsa
+  236  ls
+  237  cd pten
+  238  vim pten
+  239  echo $PATH
+  240  ./PTEN
+  241  ls -lsa
+  242  chmod 700 pten
+  243  ls -lsa
+  244  ./PTEN
+  245  vim pten
+  246  ./pten
+  247  vim pten
+  248  ./pten
+  249  echo $PATH
+  250  total 144
+  251   0 drwxr-xr-x  8 jamzaleg84  staff    272 Oct 10 22:22 .
+  252   0 drwxr-xr-x  7 jamzaleg84  staff    238 Oct  9 17:29 ..
+  253  24 -rw-------  1 jamzaleg84  staff  12288 Oct 10 19:50 .numbers.txt.swo
+  254   8 -rw-r--r--  1 jamzaleg84  staff    104 Oct 10 21:25 history5.txt
+  255  16 -rw-r--r--  1 jamzaleg84  staff   4408 Oct 10 22:20 index.Rmd
+  256   0 drwxr-xr-x  2 jamzaleg84  staff     68 Oct  9 23:20 mydirectory
+  257   8 -rwxr--r--  1 jamzaleg84  staff     32 Oct 10 22:20 numbers.txt
+  258  88 -rw-r--r--@ 1 jamzaleg84  staff  44972 Oct 10 22:22 pten
+  259  jamzaleg84@Erics-MacBook-Pro-2:~/midterm/Part_2_BASH chmod 700 pten
+  260  jamzaleg84@Erics-MacBook-Pro-2:~/midterm/Part_2_BASH ls -lsa
+  261  total 144
+  262   0 drwxr-xr-x  8 jamzaleg84  staff    272 Oct 10 22:22 .
+  263   0 drwxr-xr-x  7 jamzaleg84  staff    238 Oct  9 17:29 ..
+  264  24 -rw-------  1 jamzaleg84  staff  12288 Oct 10 19:50 .numbers.txt.swo
+  265   8 -rw-r--r--  1 jamzaleg84  staff    104 Oct 10 21:25 history5.txt
+  266  16 -rw-r--r--  1 jamzaleg84  staff   4408 Oct 10 22:20 index.Rmd
+  267   0 drwxr-xr-x  2 jamzaleg84  staff  0 drwxr-xr-x  2 jamzaleg84  staff  0 drwxr-xr-x  2 jameg 0 drwxr-xr-x  2 jamzaleg84  staff  0.txt
+  268  88 -rwx------@ 188 -rwx------@ 188 -rwx------@ 188 -rwx------@ 188 -rwx------@ 188ok-Pro-2:~/midterm/Part_2_BASH ./PTEN
+  269  ./PTEN: line 1: syntax error near un./PTEN: line 1 `./PTEN: line 1: syntax error near un./PTEN: line 1 `./PTEN: licBo./PTEN: line 1: syntax error near un./PTEN: line 1 `./PTEN: line Pr./PTEN: line 1: syntax error near un./PTEN: line 1 `./PTEN: lineile or directory
+  270  ./pten: line 2: syntax error near unexpected token `<'
+  271  ./pten: line 2: `lang="en"><head><meta'
+  272  echo $PATH
+  273  ls -l /etc/paths.d/
+  274  vim ~/.bash_profile 
+  275  ls
+  276  rm- f PTEN.1
+  277  rm -f PTEN1
+  278  rm -f PTEN.9
+  279  rm -f PTEN.1
+  280  rm -f PTEN.2
+  281  rm -f PTEN.3
+  282  rm -f PTEN.4
+  283  rm -f PTEN.5
+  284  rm -f PTEN.6
+  285  rm -f PTEN.7
+  286  rm -f PTEN.8
+  287  ls
+  288  vim ~/.bash_profile
+  289  echo $PATH
+  290  ls -lsa
+  291  vim ~/.bash_profile
+  292  grep 'ing$' soi
+  293  ls *md
+  294  cd ..
+  295  cd ..
+  296  cd desktop
+  297  /home/jamzaleg84/.bash_history < completehistory.txt
+  298  cd ..
+  299  cd midterm
+  300  cd PART_2_bash
+  301  history 5 | head
+  302  ls
+  303  ls
+  304  rm -f pten1
+  305  ls
+  306  rm -f pten.1
+  307  ls
+  308  vim history.txt
+  309  vim history.txt
+  310  cd midterm
+  311  ls
+  312  cd part_2_bash
+  313  ls
+  314  rm -f pten.1
+  315  history
+  316  history < history.txt
+  317  vim history.txt
+  318  desktop
+  319  cd desktop
+  320  history < history.txt
+  321  history < newh.txt
+  322  history < history.txt
+  323  ls
+  324  cd yu lab data
+  325  ls -lsa
+  326  cd projects
+  327  cd..
+  328  cd ..
+  329  cd ..
+  330  vim ~/.bashrc
+  331  vim ./bash_profile
+  332  vim /.bash_profile
+  333  cd ..
+  334  cd ..
+  335  cd ..
+  336  /Users/jamzaleg84/.bash_profile
+  337  ls
+  338  cd bin/
+  339  ls
+  340  cd ..
+  341  vim ~/.bash_profile
+  342  vim ~./bash_profile
+  343  vim ~/.bash_profile
+  344  history
+  345  cd desktop
+  346  history 4
+  347  history 4 > hopeitworks.txt
+  348  cd ..
+  349  cd midterm
+  350  cd part_2_bash
+  351  ls
+  352  rm -f history.txt
+  353  ls
+  354  vim ~/.bash_profile
+  355  cd
+  356  cd desktop
+  357  history 4 > historrrr.txt
+  358  cd midterm/part_2_bash
+  359  cd
+  360  cd midterm/part_2_bash
+  361  vim history.txt
+  362  ls
+  363  vim history.txt
+  364  rm -f PTEN.1
+  365  rm -f history.txt
+  366  history < history.txt
+  367  ls
+  368  history 5 < history.txt
+  369  vim ~/.bash_profile
+  370  history < history.txt
+  371  history
+  372  history 5 > history5.txt
+  373  vim history 5.txt
+  374  history5.txt
+  375  vim hisotry5.txt
+  376  ls
+  377  rm -f history
+  378  rm -f hisotry5.txt
+  379  rm -f pten.2
+  380  ls
+  381  history | history.txt
+  382  history
+  383  cd desktop
+  384  history 4
+  385  history 4 > hopeitworks.txt
+  386  cd ..
+  387  cd midterm
+  388  cd part_2_bash
+  389  ls
+  390  rm -f history.txt
+  391  ls
+  392  vim ~/.bash_profile
+  393  cd
+  394  cd desktop
+  395  history 4 > historrrr.txt
+  396  cd midterm/part_2_bash
+  397  cd
+  398  cd midterm/part_2_bash
+  399  vim history.txt
+  400  ls
+  401  vim history.txt
+  402  rm -f PTEN.1
+  403  rm -f history.txt
+  404  history < history.txt
+  405  ls
+  406  history 5 < history.txt
+  407  vim ~/.bash_profile
+  408  history < history.txt
+  409  history
+  410  history 5 > history5.txt
+  411  vim history 5.txt
+  412  history5.txt
+  413  vim hisotry5.txt
+  414  ls
+  415  rm -f history
+  416  rm -f hisotry5.txt
+  417  rm -f pten.2
+  418  ls
+  419  history | history.txt
+  420  cd 
+  421  cd desktop
+  422  history < hist.txt
+  423  history 5 < hist.txt
+  424  history5
+  425  history 5
+  426  history 5 < his.txt
+  427  ~/.bash_profile
+  428  vim ~/.bash_profile
+  429  history 6 < new.txt
+  430  history6
+  431  history 6
+  432  cd desktop
+  433  history 6 < hope.txt
+  434  cd desktop
+  435  history 6 < hist.txt
+  436  history 6 > hist.txt
+  437  cd 
+  438  cd midterm/part_2_bash
+  439  ls
+  440  vim history.txt
+  441  rm -f history.txt
+  442  ls
+  443  rm -f pten.1
+  444  ls
+  445  ls
+  446  vim history.txt
+  447  rm -f history.txt
+  448  ls
+  449  cd 
+  450  cd desktop
+  451  hsitory > hus.txt
+  452  history < hi.txt
+  453  history > hi.txt
+  454  cd 
+  455  cd midterm/part_2_bash
+  456  ls
+  457  rm -f pten.1
+  458  rm -f pten.2
+  459  l
+  460  chmod 755 history.txt
+  461  l
+  462  ls
+  463  l
+  464  history > history.txt
+  465  vim history.txt
+  466  history | head
+  467  history | head -n5
+  468  ls
+  469  rm -f Pten.1
+  470  l
+  471  cd midterm/part_2_bash
+  472  head -n5 history.txt
+  473  ls
+  474  rm -f pten.1
+  475  rm- f pten.2
+  476  rm -f pten.2
+  477  rm -f pten.3
+  478  ls
+  479  vim history.txt
+  480  vim numbers.txt
+  481  vim history5.txt
+  482  history > history.txt
+  483  history
+  484  vim history.txt
+  485  head n-5
+  486  head -n5
+  487  head -5 history.txt
+  488  cd midterm/part_2_bas
+  489  cd midterm/part_2_bash
+  490  head -5 history.txt
+  491    head -3 alphabetfile
+  492  ls
+  493  rm -f pten.1
+  494  rm-f pten.2
+  495  rm -f pten.2
+  496  ls
+  497  ls
+  498  rm -f pten.1
+  499  ls
+  500  vim historypipe.txt
+  501  cd midterm/part_2_bash
+  502  ls
+  503  rm -f pten.1
+  504  head history -5
+  505  head -5 history.txt
+  506  ls
+  507  vim history.txt
+  508  rm -f historypipe.txt
+  509  ls
+  510  vim history.txt
+  511  history > history.txt
+  512  vim history.txt
+  513  pwd
+  514  ls
+  515  rm -f pten.1
+  516  vim historypipe.txt
+  517  vim history.txt
+  518  rm -f history.txt
+  519  rm -f historypipe.txt
+  520  ls
+  521  vim history5.txt
+  522  ls- lsa
+  523  ls -lsa
+  524  ls
+  525  rm -f pten.1
+  526  vim history.txt
+  527  rm -f history.txt
+  528  rm -f historypipe.txt
+  529  history > history.txt

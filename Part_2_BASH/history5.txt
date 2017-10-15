@@ -1,0 +1,5 @@
+  485  history 5 < history.txt
+  486  vim ~/.bash_profile
+  487  history < history.txt
+  488  history
+  489  history 5 > history5.txt
